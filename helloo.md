@@ -34,3 +34,23 @@ Git add
 
 Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+---
+
+# Работа с картинками
+
+![картинка](https://img3.akspic.ru/previews/5/5/4/1/7/171455/171455-zhivopis-illustracia-art-voda-oblako-500x.jpg)
+
+---
+
+# Работа с ссылками
+
+[работа с языком маркдаун](https://blog.skillfactory.ru/glossary/markdown/)
+
+---
+
+# Работа с цитатами и списками
+
+> Что-то написали 
+>> вот так 
+
